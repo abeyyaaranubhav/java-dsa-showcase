@@ -82,7 +82,4 @@ Sorting, searching, and core data structures are usually reached for via built-i
 - Graph theory fundamentals (BFS/DFS traversal)
 - Dynamic programming and optimization (Knapsack)
 
-## Author
 
-**Sanya Bhatia** — B.Tech Data Science
-[GitHub](https://github.com/Sanyaritu) · [Portfolio](https://github.com/Sanyaritu/AI-automation-portfolio)
